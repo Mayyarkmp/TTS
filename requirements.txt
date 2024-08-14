@@ -1,0 +1,9 @@
+## You need python and an internet connection at all times to run the code
+
+## Run the following command in terminal:
+pip install transformers gtts pygame torch huggingface_hub sentencepiece datasets accelerate -U
+
+
+
+## Go to the directory of the Download-Packages file and run this command to use it
+python Download-Packages.py
